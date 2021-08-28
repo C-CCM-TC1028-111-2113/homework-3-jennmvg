@@ -12,7 +12,3 @@ def main():
     es_bisiesto()
 if __name__ == '__main__':
     main()
-    pass
-
-if __name__=='__main__':
-    main()
